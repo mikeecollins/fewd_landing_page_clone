@@ -40,6 +40,9 @@ body {
 	height: 70px;
 	margin: 0 auto;
 }
+.top-navigation .logo {
+	height: 4.375rem;
+}
 ol, ul {
 	list-style: none;
 }
